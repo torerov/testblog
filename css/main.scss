@@ -35,5 +35,9 @@ $on-laptop:        800px;
 //     }
 // }
 
+.page-content {
+  margin-top: 60px;
+}
+
 // Import partials from the `minima` theme.
 @import "minima";
